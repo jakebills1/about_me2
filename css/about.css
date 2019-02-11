@@ -1,8 +1,10 @@
 body{
     background: black;
 }
+#bio{
+    display:flex;
+}
 #bio * {
-    text-align: center;
     color: white;
 }
 #bio a{
@@ -10,6 +12,11 @@ body{
     color: inherit;
     font-weight: bold;
 }
+#bio img{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
 #albums h1 {
     text-align: center;
     color: white;
