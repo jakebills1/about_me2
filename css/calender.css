@@ -1,0 +1,8 @@
+body {
+background: url(../images/jazz.jpg);
+background-size: cover;
+background-position: right bottom;
+}
+#upcoming * {
+    color: white;
+}

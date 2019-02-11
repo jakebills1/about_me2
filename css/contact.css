@@ -1,0 +1,34 @@
+#contact {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    align-content: space-between;
+}
+#line {
+    margin-bottom: 50px;
+    text-align: center;
+    color: white;
+}
+#contact input, textarea {
+    margin-bottom: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+form label{
+    color: white;
+}
+form button{
+    background-color: #2a7e90;
+    font-family: inherit;
+    font-size: 15px;
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    border: 0;
+}
+#pic {
+    margin-left: 10%;
+}
+
